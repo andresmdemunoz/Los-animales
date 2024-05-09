@@ -1,0 +1,124 @@
+.motomoto {
+
+    max-width: 400px;
+    max-height: 400px;
+
+}
+.informacion{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+
+}
+.paralelos{
+    display: flex ;
+    flex-direction: row;
+
+}
+.txt-1{
+    margin: 0px 15px;
+    text-align: center;
+    margin: 2rem auto;
+    width: 400px;
+
+    
+}
+.Hipopo{
+    display: flex;
+    font-weight: 400px;
+    height: 350px;
+    justify-content: center;
+
+}
+.Hipopota{
+    display: flex;
+    font-weight: 400px;
+    height: 367px;
+    font-weight: 200;
+    justify-content: center;
+    margin: 10px;
+
+}
+body{
+    background-color: rgb(200, 233, 222);
+}
+.container{
+    background-color: rgb(233, 186, 233);
+    ;
+}
+.diseño{
+    width: 1000px;
+    background: white;
+    margin: 10px auto;
+}
+.widget{
+    background: rgb(233, 186, 233);
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 20px;
+}
+.menu{
+    float: left;
+    padding: 20px;
+}
+.cuerpo{
+    overflow: hidden;
+}
+.titulo{
+    color: #1551a1;
+    text-align: center;
+    padding: 20px 0 15px 0;
+    font-size: 35px;
+}
+.table th td{
+    border: 10px solid black;
+    border-collapse: collapse;
+}
+.th td{
+    padding: 10px;
+}
+.th{
+    text-align: left;
+}
+.pie{
+    background: rgb(233, 186, 233) ;
+    overflow: hidden;
+}
+.izquierda{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+.derecha{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+.abajo{
+    font-family: cursive;
+    color: black;
+    font-size: 35px;
+}
+.siguenos{
+    text-align: center;
+    color: black;
+    padding: 15px 0;
+}
+.leoncito{
+    display: flex;
+    font-weight: 400px;
+    height: 350px;
+    justify-content: center;
+
+}
+.leon{
+    display: flex;
+    font-weight: 400px;
+    height: 367px;
+    font-weight: 200;
+    justify-content: center;
+    margin: 10px;
+}
